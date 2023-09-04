@@ -1,0 +1,27 @@
+.App {
+    background-color: #f3d5b5;
+}
+
+.stopwatch {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.mins-secs {
+    font-size: 40px;
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+.footer {
+    margin-left: 10rem;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+}
